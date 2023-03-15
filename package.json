@@ -1,0 +1,17 @@
+{
+  "name": "web3.0",
+  "version": "1.0.0",
+  "description": "just basic front end and working",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
